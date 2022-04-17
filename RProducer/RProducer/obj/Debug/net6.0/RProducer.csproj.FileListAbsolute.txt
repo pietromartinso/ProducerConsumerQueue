@@ -1,0 +1,17 @@
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\bin\Debug\net6.0\RProducer.exe
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\bin\Debug\net6.0\RProducer.deps.json
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\bin\Debug\net6.0\RProducer.runtimeconfig.json
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\bin\Debug\net6.0\RProducer.dll
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\bin\Debug\net6.0\RProducer.pdb
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.csproj.AssemblyReference.cache
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.AssemblyInfoInputs.cache
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.AssemblyInfo.cs
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.csproj.CopyComplete
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.dll
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\refint\RProducer.dll
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.pdb
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\RProducer.genruntimeconfig.cache
+C:\Users\Pietro\source\repos\ProducerConsumerQueue\RProducer\RProducer\obj\Debug\net6.0\ref\RProducer.dll
